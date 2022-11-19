@@ -1,3 +1,15 @@
 .qr {
     margin-top: 50px;
 }
+
+.btn--green,
+a.btn--green {
+    color: #fff;
+    background-color: #19bd00;
+}
+
+.btn--green:hover,
+a.btn--green:hover {
+    color: #fff;
+    background: #1dda00;
+}

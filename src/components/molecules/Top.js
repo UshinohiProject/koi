@@ -10,7 +10,7 @@ class Top extends React.Component {
                 <h1 className='text-align-center'>鯉MAP</h1>
                 <p className='text-align-center'><Link to="/Qr" className='btn btn--orange'>QRを表示</Link></p>
                 <Map />
-                <h2 className='text-align-center'>お店一覧</h2>
+                <h2 className='text-align-center'>試食できるお店一覧</h2>
                 <div>
                     <p className='text-align-center'>① 老舗1番</p>
                     <p className='text-align-center'>② 鯉よ来い</p>
