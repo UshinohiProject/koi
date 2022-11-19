@@ -1,3 +1,6 @@
+# KOI
+[![Netlify Status](https://api.netlify.com/api/v1/badges/be2ab392-da19-4aef-aaf6-eb08f7867409/deploy-status)](https://app.netlify.com/sites/majestic-shortbread-aea4f2/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
