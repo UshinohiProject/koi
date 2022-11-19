@@ -4,6 +4,7 @@ import './App.css';
 
 import ScrollToTop from './components/molecules/ScrollToTop'
 import Top from './components/molecules/Top'
+import Qr from './components/molecules/Qr'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <ScrollToTop />
       <Routes>
         <Route exact path={`/`} element={<Top />} />
+        <Route path={'/Qr'} element={<Qr />} />
       </Routes>
     </Router>
   );
